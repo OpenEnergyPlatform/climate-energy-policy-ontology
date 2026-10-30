@@ -20,7 +20,7 @@
      xmlns:AnnotationVocabulary="https://www.omg.org/spec/Commons/AnnotationVocabulary/"
      xmlns:AnnotationVocabulary1="https://spec.edmcouncil.org/fibo/ontology/FND/Utilities/AnnotationVocabulary/"
      xmlns:IdentifiersAndIndices="https://spec.edmcouncil.org/fibo/ontology/FND/Arrangements/IdentifiersAndIndices/">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/awein/ontologies/2024/11/CEPO">
+    <owl:Ontology rdf:about="http://purl.org/cepo/ontology">
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/iao/2022-11-07/iao.owl"/>
         <owl:imports rdf:resource="https://www.omg.org/spec/Commons/20221101/ContextualDesignators/"/>
     </owl:Ontology>
