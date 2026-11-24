@@ -4,7 +4,7 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:uo="http://purl.obolibrary.org/obo/uo#"
      xmlns:obo="http://purl.obolibrary.org/obo/"
-     xmlns:oeo="http://openenergy-platform.org/ontology/oeo/"
+     xmlns:oeo="https://openenergyplatform.org/ontology/oeo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:www="https://www.commoncoreontologies.org/"
@@ -77,9 +77,9 @@
     
 
 
-    <!-- http://openenergy-platform.org/ontology/oeo/OEO_00140093 -->
+    <!-- https://openenergyplatform.org/ontology/oeo/OEO_00140093 -->
 
-    <owl:ObjectProperty rdf:about="http://openenergy-platform.org/ontology/oeo/OEO_00140093"/>
+    <owl:ObjectProperty rdf:about="https://openenergyplatform.org/ontology/oeo/OEO_00140093"/>
     
 
 
@@ -100,9 +100,9 @@
     
 
 
-    <!-- http://openenergy-platform.org/ontology/oeo/OEO_00000238 -->
+    <!-- https://openenergyplatform.org/ontology/oeo/OEO_00000238 -->
 
-    <owl:Class rdf:about="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+    <owl:Class rdf:about="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
     
 
 
@@ -808,7 +808,7 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000009"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00140093"/>
+                <owl:onProperty rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00140093"/>
                 <owl:someValuesFrom rdf:resource="http://purl.org/cepo/ontology#cepo_00010087"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -1718,7 +1718,7 @@
     <!-- http://purl.org/cepo/ontology#cepo_00010183 -->
 
     <owl:Class rdf:about="http://purl.org/cepo/ontology#cepo_00010183">
-        <rdfs:subClassOf rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+        <rdfs:subClassOf rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://www.commoncoreontologies.org/ont00001920"/>
@@ -1735,7 +1735,7 @@
     <!-- http://purl.org/cepo/ontology#cepo_00010184 -->
 
     <owl:Class rdf:about="http://purl.org/cepo/ontology#cepo_00010184">
-        <rdfs:subClassOf rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+        <rdfs:subClassOf rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://www.commoncoreontologies.org/ont00001920"/>
@@ -1752,7 +1752,7 @@
     <!-- http://purl.org/cepo/ontology#cepo_00010185 -->
 
     <owl:Class rdf:about="http://purl.org/cepo/ontology#cepo_00010185">
-        <rdfs:subClassOf rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+        <rdfs:subClassOf rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://www.commoncoreontologies.org/ont00001920"/>
@@ -1769,7 +1769,7 @@
     <!-- http://purl.org/cepo/ontology#cepo_00010186 -->
 
     <owl:Class rdf:about="http://purl.org/cepo/ontology#cepo_00010186">
-        <rdfs:subClassOf rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+        <rdfs:subClassOf rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://www.commoncoreontologies.org/ont00001920"/>
@@ -1786,7 +1786,7 @@
     <!-- http://purl.org/cepo/ontology#cepo_00010187 -->
 
     <owl:Class rdf:about="http://purl.org/cepo/ontology#cepo_00010187">
-        <rdfs:subClassOf rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+        <rdfs:subClassOf rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://www.commoncoreontologies.org/ont00001920"/>
@@ -1804,7 +1804,7 @@
     <!-- http://purl.org/cepo/ontology#cepo_00010188 -->
 
     <owl:Class rdf:about="http://purl.org/cepo/ontology#cepo_00010188">
-        <rdfs:subClassOf rdf:resource="http://openenergy-platform.org/ontology/oeo/OEO_00000238"/>
+        <rdfs:subClassOf rdf:resource="https://openenergyplatform.org/ontology/oeo/OEO_00000238"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://www.commoncoreontologies.org/ont00001920"/>
