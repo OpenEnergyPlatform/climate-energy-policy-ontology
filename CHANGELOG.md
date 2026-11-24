@@ -20,6 +20,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [0.1.2] Patch Release - 2026-24-11
+
+### Changed
+- Corrected IRIs for OEO terms
+- Corrected IRIs for CEPO terms
 
 ## [0.1.1] Patch Release - 2026-04-10
 
